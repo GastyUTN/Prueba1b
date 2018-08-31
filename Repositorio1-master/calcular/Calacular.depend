@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1535721593 source:/home/alumno/Escritorio/Calacular/main.c
+	<stdio.h>
+	<stdlib.h>
+	"UTN_INPUT.H"
+
+1535721788 source:/home/alumno/Escritorio/Calacular/UTN_INPUT.c
+	"UTN_INPUT.H"
+	<stdio.h>
+
+1535721297 /home/alumno/Escritorio/Calacular/UTN_INPUT.H
+
+1535722084 source:/home/alumno/Escritorio/calcular/main.c
+	<stdlib.h>
+	"UTN_INPUT.H"
+	<stdio.h>
+	"UTN_INPUT.c"
+
+1535721297 /home/alumno/Escritorio/calcular/UTN_INPUT.H
+
+1535721788 /home/alumno/Escritorio/calcular/UTN_INPUT.c
+	"UTN_INPUT.H"
+	<stdio.h>
+
